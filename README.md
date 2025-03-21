@@ -1,1 +1,2 @@
-# Tarea-Ra-ces-de-ecuaciones
+# Tarea-Raices-de-ecuaciones
+William Argueta 15799-22
